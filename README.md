@@ -1,1 +1,2 @@
-# trash-ccan
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
